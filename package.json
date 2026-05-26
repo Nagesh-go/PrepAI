@@ -1,0 +1,12 @@
+{
+  "name": "interview-prep-platform",
+  "private": true,
+  "description": "Root scripts for frontend and backend. Run npm commands from this folder or from frontend/.",
+  "scripts": {
+    "start": "npm run dev --prefix frontend",
+    "dev": "npm run dev --prefix frontend",
+    "build": "npm run build --prefix frontend",
+    "preview": "npm run preview --prefix frontend",
+    "install:frontend": "npm install --prefix frontend"
+  }
+}

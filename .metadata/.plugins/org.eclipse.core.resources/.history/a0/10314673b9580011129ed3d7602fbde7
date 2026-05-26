@@ -1,0 +1,5 @@
+package com.interviewPrep.service;
+
+public class UserRepository {
+
+}
